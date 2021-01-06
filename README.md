@@ -3,7 +3,7 @@
 - 환영 인사와 몇번째 방문인지를 알려주는 초간단 웹 애플리케이션
 > `localhost:8080/hello?name=브라운` 으로 요청
 
-![image.png](https://techcourse-storage.s3.ap-northeast-2.amazonaws.com/2020-03-25T14%3A44%3A22.544image.png)
+![Jan-06-2021 11-45-06.gif](https://techcourse-storage.s3.ap-northeast-2.amazonaws.com/b2a48a4f847f4c8cae364ac781a9b589)
 
 ---
 ## 0. 실습 환경 구축하기
